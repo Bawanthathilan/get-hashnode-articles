@@ -1,0 +1,16 @@
+{
+  "name": "Getching hashnode Posts",
+  "version": "1.0.0",
+  "description": "Fetching your hashnode posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["Hashnode", "Posts" ,"npm" , "node"],
+  "author": "Bawantha Thilan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
