@@ -13,7 +13,7 @@
     "start": "node index.js"
   },
   "keywords": ["Hashnode", "Posts" ,"npm" , "node"],
-  "author": "Bawantha Thilan",
+  "author": "Bawantha Thilan <bawantharathnayaka@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1"
