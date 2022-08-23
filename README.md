@@ -23,7 +23,7 @@ const { getPosts } = require('fetching-hashnode-posts');
 //Parameters
 getPosts(<Page Number> , <Your Hashnode Username>)
 
-// get most recent profile posts
+// get your articles
 getPosts(0, "bawanthathilan").then((posts) => {
   console.log(posts);
 });
