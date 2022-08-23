@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Fetching your hashnode posts",
   "main": "index.js",
+  "homepage": "https://github.com/Bawanthathilan/get-hashnode-articles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bawanthathilan/get-hashnode-articles"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
