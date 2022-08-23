@@ -1,5 +1,5 @@
 {
-  "name": "Getching hashnode Posts",
+  "name": "fetching-hashnode-posts",
   "version": "1.0.0",
   "description": "Fetching your hashnode posts",
   "main": "index.js",
