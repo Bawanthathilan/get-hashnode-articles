@@ -10,12 +10,19 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "bump-version": "yarn --cwd ./node_modules/automatic-versioning/ run bump-version --name=fetching-hashnode-posts"
   },
-  "keywords": ["Hashnode", "Posts" ,"npm" , "node"],
+  "keywords": [
+    "Hashnode",
+    "Posts",
+    "npm",
+    "node"
+  ],
   "author": "Bawantha Thilan <bawantharathnayaka@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "automatic-versioning": "^1.4.9",
     "node-fetch": "^2.6.1"
   }
 }
