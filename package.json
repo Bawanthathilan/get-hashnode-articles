@@ -1,6 +1,6 @@
 {
   "name": "fetching-hashnode-posts",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Fetching your hashnode posts",
   "main": "index.js",
   "homepage": "https://github.com/Bawanthathilan/get-hashnode-articles",
